@@ -1,6 +1,8 @@
 # RightShift + RightControl to activate
 script for adjusting Risk of Rain Returns zoom level with a hotkey.
 
+Make sure to run the game first, and then load the script. (if you run the script first it cant detect the screen cordinates)
+
 im using github since it feels more reliable than something like google drive.
 
 This is an AutoHotkey script, it runs on 2.0.
