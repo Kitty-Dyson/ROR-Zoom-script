@@ -7,4 +7,4 @@ AutoHotkey is an epic program that you can use to set up custonm keybinds and ma
 Download AutoHotkey here, https://www.autohotkey.com/
 
 then just download the .ahk file and run it.
-you can download by right clicking on the file > "save link as", or go to releases, or copy the code and save the file yourself if u wanna
+you can download by right clicking on the file > "save link as", or go to releases, or copy the code yourself and save the file yourself if u wanna
